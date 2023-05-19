@@ -1,7 +1,11 @@
 
 #  Destini
 
-In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+In this app, i  create a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app tells a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+
+
+![destiny giff](https://github.com/mesutgdk/Destini/assets/112901255/6c71e395-6fb7-4579-9ef0-0835ddba96d2)
+
 
 ## The Goal
 
